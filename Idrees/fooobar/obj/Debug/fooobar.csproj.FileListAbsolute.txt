@@ -1,0 +1,4 @@
+C:\Users\Jamsons\Desktop\New folder\Idrees\fooobar\bin\Debug\fooobar.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\fooobar\bin\Debug\fooobar.pdb
+C:\Users\Jamsons\Desktop\New folder\Idrees\fooobar\obj\Debug\fooobar.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\fooobar\obj\Debug\fooobar.pdb

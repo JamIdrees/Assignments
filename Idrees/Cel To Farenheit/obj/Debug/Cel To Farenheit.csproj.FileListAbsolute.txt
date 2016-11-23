@@ -1,0 +1,4 @@
+C:\Users\Jamsons\Desktop\New folder\Idrees\Cel To Farenheit\bin\Debug\Cel To Farenheit.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\Cel To Farenheit\bin\Debug\Cel To Farenheit.pdb
+C:\Users\Jamsons\Desktop\New folder\Idrees\Cel To Farenheit\obj\Debug\Cel To Farenheit.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\Cel To Farenheit\obj\Debug\Cel To Farenheit.pdb

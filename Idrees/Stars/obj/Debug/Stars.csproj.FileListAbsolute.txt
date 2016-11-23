@@ -1,0 +1,4 @@
+C:\Users\Jamsons\Desktop\New folder\Idrees\Stars\bin\Debug\Stars.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\Stars\bin\Debug\Stars.pdb
+C:\Users\Jamsons\Desktop\New folder\Idrees\Stars\obj\Debug\Stars.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\Stars\obj\Debug\Stars.pdb

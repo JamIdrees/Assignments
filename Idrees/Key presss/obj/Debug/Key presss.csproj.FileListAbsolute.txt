@@ -1,0 +1,4 @@
+C:\Users\Jamsons\Desktop\New folder\Idrees\Key presss\bin\Debug\Key presss.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\Key presss\bin\Debug\Key presss.pdb
+C:\Users\Jamsons\Desktop\New folder\Idrees\Key presss\obj\Debug\Key presss.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\Key presss\obj\Debug\Key presss.pdb

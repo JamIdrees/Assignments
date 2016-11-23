@@ -7,3 +7,9 @@ C:\Users\Jamsons\Desktop\Idrees\Idrees\Display Grade\obj\Debug\Display Grade.csp
 D:\assignments\Idrees\Display Grade\bin\Debug\Display Grade.exe.config
 D:\assignments\Idrees\Display Grade\obj\Debug\Display Grade.exe
 D:\assignments\Idrees\Display Grade\obj\Debug\Display Grade.pdb
+C:\Users\Jamsons\Desktop\New folder\Idrees\Display Grade\bin\Debug\Display Grade.exe.config
+C:\Users\Jamsons\Desktop\New folder\Idrees\Display Grade\obj\Debug\Display Grade.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\Display Grade\obj\Debug\Display Grade.pdb
+C:\Users\Jamsons\Desktop\New folder\Idrees\Display Grade\bin\Debug\Display Grade.exe
+C:\Users\Jamsons\Desktop\New folder\Idrees\Display Grade\bin\Debug\Display Grade.pdb
+C:\Users\Jamsons\Desktop\New folder\Idrees\Display Grade\obj\Debug\Display Grade.csprojResolveAssemblyReference.cache
