@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\bin\Debug\Books Database.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\bin\Debug\Books Database.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\bin\Debug\Books Database.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\obj\Debug\Books Database.csprojResolveAssemblyReference.cache
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\obj\Debug\Books Database.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\obj\Debug\Books Database.pdb

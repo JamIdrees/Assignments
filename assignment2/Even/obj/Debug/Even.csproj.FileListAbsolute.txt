@@ -1,0 +1,5 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Even\bin\Debug\Even.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Even\bin\Debug\Even.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Even\bin\Debug\Even.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Even\obj\Debug\Even.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Even\obj\Debug\Even.pdb

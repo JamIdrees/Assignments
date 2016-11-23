@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Greatest value\bin\Debug\Greatest value.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Greatest value\bin\Debug\Greatest value.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Greatest value\bin\Debug\Greatest value.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Greatest value\obj\Debug\Greatest value.csprojResolveAssemblyReference.cache
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Greatest value\obj\Debug\Greatest value.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Greatest value\obj\Debug\Greatest value.pdb

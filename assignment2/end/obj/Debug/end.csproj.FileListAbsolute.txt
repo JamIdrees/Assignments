@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\end\bin\Debug\end.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\end\bin\Debug\end.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\end\bin\Debug\end.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\end\obj\Debug\end.csprojResolveAssemblyReference.cache
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\end\obj\Debug\end.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\end\obj\Debug\end.pdb

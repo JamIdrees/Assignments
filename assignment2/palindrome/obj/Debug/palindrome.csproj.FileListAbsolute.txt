@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\palindrome\bin\Debug\palindrome.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\palindrome\bin\Debug\palindrome.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\palindrome\bin\Debug\palindrome.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\palindrome\obj\Debug\palindrome.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\palindrome\obj\Debug\palindrome.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\palindrome\obj\Debug\palindrome.csprojResolveAssemblyReference.cache

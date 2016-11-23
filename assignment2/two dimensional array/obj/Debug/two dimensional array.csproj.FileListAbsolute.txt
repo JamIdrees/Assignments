@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\two dimensional array\bin\Debug\two dimensional array.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\two dimensional array\obj\Debug\two dimensional array.csprojResolveAssemblyReference.cache
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\two dimensional array\bin\Debug\two dimensional array.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\two dimensional array\bin\Debug\two dimensional array.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\two dimensional array\obj\Debug\two dimensional array.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\two dimensional array\obj\Debug\two dimensional array.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\obj\Debug\reverse.csprojResolveAssemblyReference.cache
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\bin\Debug\reverse.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\bin\Debug\reverse.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\bin\Debug\reverse.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\obj\Debug\reverse.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\obj\Debug\reverse.pdb

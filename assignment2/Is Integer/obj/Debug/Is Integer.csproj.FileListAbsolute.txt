@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\bin\Debug\Is Integer.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\bin\Debug\Is Integer.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\bin\Debug\Is Integer.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\obj\Debug\Is Integer.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\obj\Debug\Is Integer.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\obj\Debug\Is Integer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idrees", "Idrees\Idrees.csproj", "{C1984FAD-4106-4332-8382-0E0DD40A3D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display Grade", "Display Grade\Display Grade.csproj", "{7E5B3003-9CB0-4159-9D8D-09B06D0D4BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1984FAD-4106-4332-8382-0E0DD40A3D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1984FAD-4106-4332-8382-0E0DD40A3D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1984FAD-4106-4332-8382-0E0DD40A3D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1984FAD-4106-4332-8382-0E0DD40A3D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5B3003-9CB0-4159-9D8D-09B06D0D4BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5B3003-9CB0-4159-9D8D-09B06D0D4BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5B3003-9CB0-4159-9D8D-09B06D0D4BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5B3003-9CB0-4159-9D8D-09B06D0D4BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

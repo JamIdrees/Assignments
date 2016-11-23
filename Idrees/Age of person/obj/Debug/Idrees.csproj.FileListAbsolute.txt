@@ -1,0 +1,8 @@
+C:\Users\Jamsons\Desktop\Idrees\Idrees\Idrees\bin\Debug\Idrees.exe.config
+C:\Users\Jamsons\Desktop\Idrees\Idrees\Idrees\bin\Debug\Idrees.exe
+C:\Users\Jamsons\Desktop\Idrees\Idrees\Idrees\bin\Debug\Idrees.pdb
+C:\Users\Jamsons\Desktop\Idrees\Idrees\Idrees\obj\Debug\Idrees.exe
+C:\Users\Jamsons\Desktop\Idrees\Idrees\Idrees\obj\Debug\Idrees.pdb
+D:\assignments\Idrees\Age of person\bin\Debug\Idrees.exe.config
+D:\assignments\Idrees\Age of person\obj\Debug\Idrees.exe
+D:\assignments\Idrees\Age of person\obj\Debug\Idrees.pdb

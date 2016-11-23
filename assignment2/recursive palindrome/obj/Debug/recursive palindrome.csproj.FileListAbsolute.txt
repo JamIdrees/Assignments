@@ -1,0 +1,6 @@
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\recursive palindrome\bin\Debug\recursive palindrome.exe.config
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\recursive palindrome\bin\Debug\recursive palindrome.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\recursive palindrome\bin\Debug\recursive palindrome.pdb
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\recursive palindrome\obj\Debug\recursive palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\recursive palindrome\obj\Debug\recursive palindrome.exe
+C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\recursive palindrome\obj\Debug\recursive palindrome.pdb
