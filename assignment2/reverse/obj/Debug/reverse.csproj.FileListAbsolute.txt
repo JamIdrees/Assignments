@@ -4,3 +4,6 @@ C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\bin\Debug\rever
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\bin\Debug\reverse.pdb
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\obj\Debug\reverse.exe
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\reverse\obj\Debug\reverse.pdb
+D:\assignments\assignment2\reverse\bin\Debug\reverse.exe.config
+D:\assignments\assignment2\reverse\obj\Debug\reverse.exe
+D:\assignments\assignment2\reverse\obj\Debug\reverse.pdb

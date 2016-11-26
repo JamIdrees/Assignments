@@ -4,3 +4,9 @@ C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\bin\Debu
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\obj\Debug\Books Database.csprojResolveAssemblyReference.cache
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\obj\Debug\Books Database.exe
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Books Database\obj\Debug\Books Database.pdb
+D:\assignments\assignment2\Books Database\bin\Debug\Books Database.exe.config
+D:\assignments\assignment2\Books Database\obj\Debug\Books Database.exe
+D:\assignments\assignment2\Books Database\obj\Debug\Books Database.pdb
+D:\assignments\assignment2\Books Database\obj\Debug\Books Database.csprojResolveAssemblyReference.cache
+D:\assignments\assignment2\Books Database\bin\Debug\Books Database.exe
+D:\assignments\assignment2\Books Database\bin\Debug\Books Database.pdb

@@ -3,3 +3,5 @@ C:\Users\Jamsons\Desktop\New folder\Idrees\Age\bin\Debug\Age.pdb
 C:\Users\Jamsons\Desktop\New folder\Idrees\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
 C:\Users\Jamsons\Desktop\New folder\Idrees\Age\obj\Debug\Age.exe
 C:\Users\Jamsons\Desktop\New folder\Idrees\Age\obj\Debug\Age.pdb
+D:\assignments\Idrees\Age\obj\Debug\Age.exe
+D:\assignments\Idrees\Age\obj\Debug\Age.pdb

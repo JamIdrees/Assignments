@@ -24,7 +24,7 @@ namespace Books_Database
             bool repeat = true;
             bool found;
             string option, search;
-            int amount = 0;
+            int index = 0;
             do
             {
                 Console.WriteLine();
@@ -41,19 +41,19 @@ namespace Books_Database
                 switch (option)
                 {
                     case "1":
-                        if (amount < value)
+                        if (index < value)
                         {
-                            Console.WriteLine("Enter data for book {0}", amount + 1);
+                            Console.WriteLine("Enter data for book {0}", index + 1);
                             Console.Write("Enter the name of the book: ");
-                            books[amount].title = Console.ReadLine();
+                            books[index].title = Console.ReadLine();
 
                             Console.Write("Enter the author: ");
-                            books[amount].author = Console.ReadLine();
+                            books[index].author = Console.ReadLine();
 
                             Console.WriteLine("Enter the name of publication: ");
-                            books[amount].publication = Console.ReadLine();
+                            books[index].publication = Console.ReadLine();
 
-                            amount++;
+                            index++;
                             Console.WriteLine();
                         }
                         else
@@ -62,18 +62,16 @@ namespace Books_Database
 
 
                     case "2":
-                        if (amount == 0)
+                        if (index == 0)
                             Console.WriteLine("No data to search");
                         else
-                        {
-                            for (int i = 0; i < amount; i++)
+                            for (int i = 0; i < index; i++)
                             {
                                 Console.WriteLine("-----------------------------------------------------------------------");
                                 Console.WriteLine("{0}: Title  : {1}  | \t Author  : {2}  | \t Publication  : {3}  ",
                                 i + 1, books[i].title, books[i].author, books[i].publication);
                                 Console.WriteLine();
                             }
-                        }
                         break;
 
                     case "3":
@@ -81,7 +79,7 @@ namespace Books_Database
                         search = Console.ReadLine();
                         found = false;
 
-                        for (int i = 0; i < amount; i++)
+                        for (int i = 0; i < index; i++)
                             if (books[i].title == search.ToUpper())
                             {
                                 Console.WriteLine("-----------------------------------------------------------------------");
@@ -97,16 +95,15 @@ namespace Books_Database
                         break;
 
                     case "4":
-                        if(amount==0)
+                        if (index == 0)
                         Console.WriteLine("No Books To Delete");
                         else
                         {
                             Console.WriteLine("Enetr Number Of Book To Delete:");
-                            int pos = Convert.ToInt32(Console.ReadLine());
-                            for (int i = pos; pos < amount; i++)
+                            int pos = Convert.ToInt32(Console.ReadLine())-1;
+                            for (int i = pos; i < index-1; i++)
                                 books[i] = books[i + 1];
-                            amount--;
-                            
+                            index--;
                         }
                         break;
                     case "5":
