@@ -1,0 +1,89 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+ <script src="js/script.js"></script>
+<body>
+<div id="img">
+<img src="https://lh3.ggpht.com/nlI91wYNCrjjNy5f-S3CmVehIBM4cprx-JFWOztLk7vFlhYuFR6YnxcT446AvxYg4Ab7M1Fy0twaOCWYcUk=s0#w=640&h=426">
+</div>
+</body>
+</head>
+</html> -->
+<!-- <html>
+<head>
+<script language="javascript">
+function cnt()
+{
+    var count=parseInt(document.frm1.inp1.value);
+    count++;
+    document.frm1.inp1.value=count;
+    alert(document.frm1.inp1.value);
+    var count=0;
+    count++;
+    // $('input').text(count);
+
+}
+</script>
+</head>
+<body>
+<form name="frm1" method="post" action="">
+<img src="https://lh3.ggpht.com/nlI91wYNCrjjNy5f-S3CmVehIBM4cprx-JFWOztLk7vFlhYuFR6YnxcT446AvxYg4Ab7M1Fy0twaOCWYcUk=s0#w=640&h=426" onClick="cnt()"/>
+<input type="hidden" name="inp1" value="0"/> -->
+<!-- <input type="text" name="Count" value="0">
+</form>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cat Clicker! By Mohammed Idrees</title>
+    <meta name="viewport" content="width=device-width">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container" id="container">
+        <div class = "row">
+            <div class="col-sm-8" id="cat_detail_view">
+                <h1>Welcome to Cat Clicker</h1>
+                <h2 id="catName"></h2>
+                <img id="catImage" class="img-responsive img-rounded" alt="Image of a cat">
+                <h2 id="catScore"></h2>
+            </div>
+            <div class="col-sm-4">
+                <h3>Here's a list of your cats:</h3>
+                <p>Click on a cat name to see its information</p>
+                <ul id="catlist">
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-2">
+                <button class="btn btn-default" id="adminButton">Admin Mode</button>
+            </div>
+            <div class="col-sm-6">
+                <form id="adminForm">
+                    <div class="form-group">
+                        <label for="inputName">Name</label>
+                        <input type="text" class="form-control" id="inputName">
+                    </div>
+                    <div class="form-group">
+                        <label for="imgUrl">Image URL</label>
+                        <input type="text" class="form-control" id="inputURL" placeholder="Format: img/cat*.jpg" width="200%" height="100%">
+                    </div>
+                    <div class="form-group">
+                        <label for="numClicks">Number of clicks</label>
+                        <input type="text" class="form-control" id="numClicks" placeholder="# of clicks">
+                    </div>
+                    <div class="form-group">
+                        <button type="button" class="btn btn-default" id="cancelButton">Cancel</button>
+                        <button type="button" class="btn btn-default" id="saveButton">Save</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>

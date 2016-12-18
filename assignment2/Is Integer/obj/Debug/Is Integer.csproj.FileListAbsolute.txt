@@ -4,3 +4,6 @@ C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\bin\Debug\Is
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\obj\Debug\Is Integer.exe
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\obj\Debug\Is Integer.pdb
 C:\Users\Jamsons\Desktop\assignment2\ConsoleApplication1\Is Integer\obj\Debug\Is Integer.csprojResolveAssemblyReference.cache
+D:\assignments\assignment2\Is Integer\bin\Debug\Is Integer.exe.config
+D:\assignments\assignment2\Is Integer\obj\Debug\Is Integer.exe
+D:\assignments\assignment2\Is Integer\obj\Debug\Is Integer.pdb

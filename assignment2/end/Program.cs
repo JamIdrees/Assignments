@@ -30,8 +30,9 @@ namespace end
             for (int i = 0; i < numcount;i++ )
             {
                 Console.Write(numbers[i]);
+                Console.ReadLine(); 
             }
-            Console.ReadLine();           
+                  
             }
          
          }
